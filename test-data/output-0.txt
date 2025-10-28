@@ -1,2 +1,1 @@
-SUCCESS  # <- GT4500
-SUCCESS  # <- TORPEDO
+No ship has been initialized
